@@ -1,0 +1,4 @@
+{
+  "script_path": "scripts/auto-dev.js",
+  "log_file": "logs/auto-dev.log"
+}
